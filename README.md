@@ -1,2 +1,2 @@
 # Machine-Learning
-Several codes
+Several codes of machine learning algorithms
